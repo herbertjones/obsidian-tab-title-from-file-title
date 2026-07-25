@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "tab-title-from-h1",
+	"name": "Tab Title from H1",
 	"version": "1.0.0",
 	"minAppVersion": "1.0.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Change tab title from file h1 title",
+	"author": "Herbert Jones",
+	"authorUrl": "https://github.com/herbertjones/obsidian-tab-title-from-h1",
 	"isDesktopOnly": false
 }
