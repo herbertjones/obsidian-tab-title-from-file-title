@@ -30,4 +30,4 @@ The plugin source is a single file: `src/main.ts`.
 
 ## License
 
-0BSD
+MIT
