@@ -3,8 +3,8 @@
 	"name": "Tab Title from H1 File Title",
 	"version": "1.0.1",
 	"minAppVersion": "1.0.0",
-	"description": "Change tab title to file h1 file title",
+	"description": "Change tab title to file h1 file title.",
 	"author": "Herbert Jones",
-	"authorUrl": "https://github.com/herbertjones/obsidian-tab-title-from-h1",
+	"authorUrl": "https://github.com/herbertjones",
 	"isDesktopOnly": false
 }
