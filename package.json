@@ -1,6 +1,6 @@
 {
-	"name": "tab-title-from-h1",
-	"version": "1.0.0",
+	"name": "tab-title-from-file-title",
+	"version": "1.0.1",
 	"description": "Change tab title from file h1 title",
 	"main": "main.js",
 	"type": "module",
