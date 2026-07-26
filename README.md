@@ -15,8 +15,8 @@ There are no settings — the behavior is automatic once the plugin is enabled.
 ### Manually
 
 1. Build the plugin (see below) or download `main.js` and `manifest.json` from a release.
-2. Copy `main.js` and `manifest.json` into your vault at `VaultFolder/.obsidian/plugins/tab-title-from-h1/`.
-3. Reload Obsidian and enable **Tab Title from H1** in **Settings → Community plugins**.
+2. Copy `main.js` and `manifest.json` into your vault at `VaultFolder/.obsidian/plugins/tab-title-from-file-title/`.
+3. Reload Obsidian and enable **Tab Title from H1 File Title** in **Settings → Community plugins**.
 
 ## Development
 
