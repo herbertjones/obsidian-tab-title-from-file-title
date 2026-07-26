@@ -1,7 +1,7 @@
 {
 	"name": "tab-title-from-file-title",
-	"version": "1.0.1",
-	"description": "Change tab title from file h1 title",
+	"version": "1.0.2",
+	"description": "Show a note's first H1 heading as its tab title.",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {

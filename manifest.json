@@ -1,9 +1,9 @@
 {
 	"id": "tab-title-from-file-title",
 	"name": "Tab Title from H1 File Title",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"minAppVersion": "1.0.0",
-	"description": "Change tab title to file h1 file title.",
+	"description": "Show a note's first H1 heading as its tab title.",
 	"author": "Herbert Jones",
 	"authorUrl": "https://github.com/herbertjones",
 	"isDesktopOnly": false
